@@ -2,7 +2,7 @@
 <ul>
   <li>:fire: Full Stack web developer.</li>
   <li>:mortar_board: Currently studying Computer Science.</li>
-  <li>:bulb: I'm currently learning React & Express.</li>
+  <li>:bulb: Currently studying PHP</li>
 </ul>
 </div>
 
