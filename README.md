@@ -1,8 +1,8 @@
 ## Olá! eu sou Mickael Wenicio. 👋
 <ul>
-  <li>:fire: Full Stack web developer.</li>
-  <li>:mortar_board: Currently studying Computer Science.</li>
-  <li>:bulb: Currently studying CSharp</li>
+  <li>:fire: Full Stack Developer.</li>
+  <li>:mortar_board: Currently studying Analysis and Systems Development.</li>
+  <li>:bulb: Currently studying Java</li>
 </ul>
 </div>
 
