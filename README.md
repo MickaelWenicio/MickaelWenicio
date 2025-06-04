@@ -1,7 +1,6 @@
 ## Olá! eu sou Mickael Wenicio. 👋
 <ul>
-  <li>:fire: Full Stack Developer.</li>
-  <li>:mortar_board: Currently studying Analysis and Systems Development.</li>
+  <li>:fire: Fullstack Software Developer.</li>
 </ul>
 </div>
 
