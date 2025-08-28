@@ -1,6 +1,6 @@
 ## Olá! eu sou Mickael Wenicio. 👋
 <ul>
-  <li>:fire: Fullstack Software Developer.</li>
+  <li>:fire: Fullstack Software Engineer.</li>
 </ul>
 </div>
 
