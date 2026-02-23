@@ -33,10 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width:50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width:50px"/>
   <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="width:50px"/> -->
-
-### Stats:
-| <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mickaelwenicio&show_icons=true&count_private=true&hide_border=true&title_color=F0ECE5&icon_color=FFC436&text_color=c9d1d9&bg_color=0D1117" alt="Mickael Wenicio github stats" /> | <img width="90%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickaelwenicio&layout=compact&hide_border=true&title_color=F0ECE5&text_color=c9d1d9&bg_color=0D1117" /></a> |
-| ------------- | ------------- |
+  
 ### Contacts:
 <div>
   <a href="https://www.instagram.com/mickaelwenicio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
