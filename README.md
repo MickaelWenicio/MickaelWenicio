@@ -1,10 +1,10 @@
-## Olá! eu sou Mickael Wenicio. 👋
+## Hi! I'm Mickael Wenicio. 👋
 <ul>
   <li>:fire: Fullstack Software Engineer.</li>
 </ul>
 </div>
 
-### Most Used Tecnologies:
+### Most Used Technologies:
 <div style="display:inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="width:50px"/>     
